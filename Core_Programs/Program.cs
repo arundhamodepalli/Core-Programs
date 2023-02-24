@@ -12,8 +12,9 @@
             // FactorNumber.Factor_Number();
             // ComputeProgram.Compute_Program();
             // SwapNumbers.Swap_Numbers();
-            EvenOddNumber.EvenOdd_Number();
-            
-        }
+            //EvenOddNumber.EvenOdd_Number();
+            VowelConsonantProgram.VowelConsonant_Program();
+
+            }
     }
 }
