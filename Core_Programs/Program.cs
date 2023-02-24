@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("welcome to basic core programs");
+            FlipCoin.Flip_Coin();
         }
     }
 }
