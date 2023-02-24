@@ -9,7 +9,8 @@
             // LeapYear.Leap_Year();
             // PowerofN.Powerof_N();
             // HarmonicNumber.Harmonic_Number();
-            FactorNumber.Factor_Number();
+            // FactorNumber.Factor_Number();
+            ComputeProgram.Compute_Program();
             
         }
     }
