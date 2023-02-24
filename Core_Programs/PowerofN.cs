@@ -12,7 +12,7 @@ namespace Core_Programs
         {
 
 
-            static void main(string[] args)
+            static void Main(string[] args)
             {
 
                 if (args.Length == 0)

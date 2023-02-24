@@ -8,6 +8,7 @@
             FlipCoin.Flip_Coin();
             LeapYear.Leap_Year();
             PowerofN.Powerof_N();
+            HarmonicNumber.Harmonic_Number();
         }
     }
 }
